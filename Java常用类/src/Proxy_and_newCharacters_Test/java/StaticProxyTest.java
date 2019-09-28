@@ -52,7 +52,6 @@ public class StaticProxyTest {
 
         proxyClothFactory.produceCloth();
 
-        System.out.println(456);
     }
 }
 
