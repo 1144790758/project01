@@ -51,6 +51,9 @@ public class StaticProxyTest {
         ClothFactory proxyClothFactory = new ProxyClothFactory(nike);
 
         proxyClothFactory.produceCloth();
-
     }
+}
+
+class AR{
+    private int aget;
 }
