@@ -52,6 +52,7 @@ public class StaticProxyTest {
 
         proxyClothFactory.produceCloth();
         System.out.println("1234424234");
+        System.out.println("1234424234");
     }
 }
 
