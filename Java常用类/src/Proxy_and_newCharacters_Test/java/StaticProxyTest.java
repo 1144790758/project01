@@ -54,6 +54,4 @@ public class StaticProxyTest {
     }
 }
 
-class AR{
-    private int aget;
-}
+
